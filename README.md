@@ -1,4 +1,4 @@
-Fyyur
+fyyur App
 -----
 
 ## Introduction
@@ -180,4 +180,8 @@ python3 app.py
 
 6. **Verify on the Browser**<br>
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
+
+=======
+# Fyyur-Artist-Booking-Site
+A booking site Fy-yur that facilitates bookings between artists who can play at venues, and venues who want to book artists
 
